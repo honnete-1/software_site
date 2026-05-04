@@ -70,7 +70,7 @@ app-software-hero/
 
 ---
 
-## 📱 Responsiveness
+## Responsiveness
 
 The layout adapts to:
 
