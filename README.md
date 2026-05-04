@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![Responsive](https://img.shields.io/badge/)
 
 A modern **App & Software landing page hero section** built using **HTML5 and Tailwind CSS**.  
 This project focuses on recreating a clean, professional SaaS-style UI with strong attention to layout, spacing, typography, and responsiveness.
