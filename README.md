@@ -101,7 +101,7 @@ This project was developed as part of a frontend assignment to:
 
 ---
 
-## 🔍 Key Learning Outcomes
+## Key Learning Outcomes
 
 - Utility-first CSS workflow
 - Responsive design thinking
